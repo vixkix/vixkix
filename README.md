@@ -1,3 +1,4 @@
+<img src="https://github.com/vixkix/vixkix/blob/main/vigneshramamoorthy04%40gamil.com.png">
 <h1 align="center">Hi 👋, It's me Vignesh</h1>
 <h3 align="center">Artificial Intelligence Engineering Student</h3>
 
